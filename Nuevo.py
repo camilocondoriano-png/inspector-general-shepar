@@ -1,7 +1,8 @@
 nombre = "Inspector general"
-apellido = "Shepard"
+apellido = "Shepard kisaru"
 saludo = f"Hola {nombre} {apellido}, ¿como estas?"
 print(saludo)
+
 
 
 
