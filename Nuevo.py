@@ -1,1 +1,4 @@
-print(62+2)
+nombre = "inspector"
+apellido = "shepard"
+saludo = f"Hola {nombre} {apellido}, ¿como estas?"
+print(saludo)
