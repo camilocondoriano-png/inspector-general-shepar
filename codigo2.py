@@ -1,2 +1,2 @@
-nombre = "don gatos"
-print("hola" + nombre)
+nombre = "señor gato"
+print("hola " +  nombre)
