@@ -1,2 +1,2 @@
-nombre ="don gato"
+nombre = "don gatos"
 print("hola" + nombre)
